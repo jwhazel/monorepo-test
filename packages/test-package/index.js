@@ -1,3 +1,3 @@
 export default () => {
-  console.log("test package v1.0.0");
+  console.log("test package v2.0.0");
 };
